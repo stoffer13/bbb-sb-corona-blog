@@ -1,19 +1,19 @@
 {
     "main": [
         {
-            "label": "Home",
+            "label": "Hjem",
             "url": "/"
         },
         {
-            "label": "About",
+            "label": "Om",
             "url": "/about/"
         },
         {
-            "label": "Blog",
+            "label": "Øvelser",
             "url": "/blog/"
         },
         {
-            "label": "Contact",
+            "label": "Kontakt",
             "url": "/contact/"
         }
     ]

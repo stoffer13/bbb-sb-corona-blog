@@ -6,7 +6,7 @@ image_caption: Photo by Spencer Dahl on Unsplash
 excerpt: Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight.
 tags:
     - blog
-    - health
+    - øvelser
 ---
 
 Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight.

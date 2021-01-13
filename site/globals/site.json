@@ -2,9 +2,9 @@
     "name": "Skeleventy",
     "url": "https://skeleventy.netlify.app",
     "author": {
-        "name": "Max Power",
-        "email": "hello@maxpower.com",
-        "handle": "@maxpower",
+        "name": "Christoffer Magnussen",
+        "email": "stoffer13+bbbsb@gmail.com",
+        "handle": "@emaatdk",
         "avatar": "/images/blog/author.jpg"
     },
     "images": {
@@ -14,9 +14,8 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "facebook": "https://www.facebook.com",
-        "twitter": "https://twitter.com/joe_dyer1",
-        "linkedin": "https://www.linkedin.com"
+        "facebook": "https://www.facebook.com/groups/266772777749388",
+        "twitter": "https://twitter.com/emaatdk"
     },
     "address": {
         "street": "123 Fake Street",
@@ -28,6 +27,6 @@
     "contact": {
         "phone": "123 456 789",
         "mobile": "(+44) 1234 5678",
-        "email": "hello@maxpower.com"
+        "email": "stoffer13+bbbsb@gmail.com"
     }
 }

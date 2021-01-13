@@ -13,78 +13,79 @@ title: Velkommen til BBB/SB 2008 Fodbold Hjemmetræning!
         <h1 class="page-title">{{ title }}</h1>
 
         <div class="content">
-
-            <p>Her på siden samler vi nogle forslag til øvelser og Hjemmetræning. Hvis I har gode ideer så kom endelig med dem.</p>
-
-            <h2 class="text-3xl">Seneste øvelses program</h2>
+            <p>Her på siden samler vi nogle forslag til øvelser og hjemmetræning.</p>
             <div class="flex">
-                {% set post = collections.excercises | first %}
+                <div class="flex-initial m-2 w-1/2" style="width: 300px;">
+                    Hvis I har gode ideer så kom endelig med dem.<br/>
+                    Vi samler løbende op - mere tekst
+                </div>
+                <div class="flex-auto m-2 w-1/2">
+                    <h2 class="text-xl">Seneste øvelses program</h2>
+                    {% set post = collections.excercises | first %}
 
-                <article class="article-card max-w-xs flex-auto mb-8 mx-4 bg-white overflow-hidden rounded-lg shadow-lg">
+                    <article class="article-card flex-auto mb-8 mx-4 bg-white overflow-hidden rounded-lg shadow-lg">
 
-                    {# featured post image & category #}
-                    {% if post.data.featured_image %}
+                        {# featured post image & category #}
+                        {% if post.data.featured_image %}
 
-                        <a class="featured-image-link block relative overflow-hidden" href="{{ post.url }}">
+                            <a class="featured-image-link block relative overflow-hidden" href="{{ post.url }}">
 
-                            {# category link #}
-                            <ul class="absolute bottom-0 left-0 flex p-8 z-10">
+                                {# category link #}
+                                <ul class="absolute bottom-0 left-0 flex p-8 z-10">
 
-                                {% for item in post.data.tags %}
+                                    {% for item in post.data.tags %}
 
-                                    {%- if item != "blog" -%}
+                                        {%- if item != "blog" -%}
 
-                                        <li class="mr-2">
+                                            <li class="mr-2">
 
-                                            <span class="inline-block bg-pink-500 px-4 py-2 text-white text-xs font-bold rounded">{{ item | capitalize }}</span>
+                                                <span class="inline-block bg-pink-500 px-4 py-2 text-white text-xs font-bold rounded">{{ item | capitalize }}</span>
 
-                                        </li>
+                                            </li>
 
-                                    {%- endif -%}
+                                        {%- endif -%}
 
-                                {% endfor %}
+                                    {% endfor %}
 
-                            </ul>
+                                </ul>
 
-                            <figure>
+                                <figure>
 
-                                {# the 'data-lazy' attribute will lazy load your images in #}
-                                {# the js uses the new Intersection Observer API, see ../modules/lazyload #}
-                                {# it's not fully supported in some browsers, so proceed with caution! #}
-                                {# the srcset attribute would be a nice addtion here as well...in a future update maybe :) #}
-                                <img data-lazy="{{ post.data.featured_image }}" class="block" alt="{{ post.data.image_caption }}">
+                                    {# the 'data-lazy' attribute will lazy load your images in #}
+                                    {# the js uses the new Intersection Observer API, see ../modules/lazyload #}
+                                    {# it's not fully supported in some browsers, so proceed with caution! #}
+                                    {# the srcset attribute would be a nice addtion here as well...in a future update maybe :) #}
+                                    <img data-lazy="{{ post.data.featured_image }}" class="block" alt="{{ post.data.image_caption }}">
 
-                            </figure>
+                                </figure>
 
-                        </a>
+                            </a>
 
-                    {% endif %}
+                        {% endif %}
 
-                    <div class="p-8">
+                        <div class="p-8">
 
-                        <h2 class="text-2xl mb-6">
-                            <a class="block text-purple-900 hover:text-pink-500" href="{{ post.url }}">{{ post.data.title }}</a>
-                        </h2>
+                            <h2 class="text-2xl mb-6">
+                                <a class="block text-purple-900 hover:text-pink-500" href="{{ post.url }}">{{ post.data.title }}</a>
+                            </h2>
 
-                        <div class="text-sm text-gray-600 md:flex mb-4">
+                            <div class="text-sm text-gray-600 md:flex mb-4">
+Af {{ site.author.name }}
 
-                            <p class="author">By
-                                {{ site.author.name }}</p>
+                                <time datetime="{{ post.date }}">
+                                    {{ post.date | dateDisplay }}
+                                </time>
 
-                            <p class="hidden md:block px-2">—</p>
-
-                            <time datetime="{{ post.date }}">
-                                {{ post.date | dateDisplay }}
-                            </time>
+                            </div>
 
                         </div>
 
-                    </div>
-
-                </article>
+                    </article>
+                </div>
             </div>
         </div>
+    </div>
 
-    </section>
+</section>
 
 </main>
