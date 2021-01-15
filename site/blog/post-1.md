@@ -1,22 +1,41 @@
 ---
-title: 7 steps to more productive meetings
-date: 2018-09-30
-featured_image: /images/blog/post-1.jpg
-image_caption: Photo by Dylan Gillis on Unsplash
-excerpt: A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
+title: Løbetræning uge 3
+date: 2021-01-16
+featured_image: /images/blog/blog-1_pexels-nur-andi-ravsanjani-gusma.jpg
+image_caption: Photo by Nur Andi Ravsanjani Gusma on Pexels
+excerpt: Så skal vi til at igang - programmet for løbetræning uge 3
 tags:
     - blog
     - øvelser
+    - løb
 ---
 
-A meeting is a gathering of two or more people that has been convened for the purpose of achieving a common goal through verbal interaction.
+Så skal vi til at igang - programmet for løbetræning uge 3
 
-Such as sharing information or reaching an agreement. Meetings may occur face-to-face or virtually, as mediated by communications technology, such as a telephone conference call, a skyped conference call or a video conference.
+Programmet er delt lidt op, alt efter hvor meget du har holdt dig igang i løbet af juleferien. Vør ærlig overfor dig selv, og lade være med at starte for hårdt, det kommer du bare til skade af. Men du skal samtidig have noget ud af det, så du skal være træt efter løbeturen, ellers har du slappet for meget af.
 
-One can distinguish a meeting from other gatherings, such as a chance encounter (not convened), a sports game or a concert (verbal interaction is incidental), a party or the company of friends (no common goal is to be achieved) and a demonstration (whose common goal is achieved mainly through the number of demonstrators present, not through verbal interaction).
+Når vi løber 4 min (minutter) intervaller er det vigtig at du kan holde et godt konstant tempo, og at du er helt færdig når der er gået 4 minutter. Hvis 90s (1,5 minut) ikke er pause nok til du er klar til at give intervallet fuldt gas, holder du længere pause. Det vigtigste er at du er 100% klar til at løbe intervallet.
 
-## Meeting planners
+Når vi løber 50m sprints er det vigtig at du kommer op i maks fart så hurtigt som muligt, så du løber så langt som muligt i sprint. Det er **ikke** først når du har løbet 50m du skal ramme topfarten. 50m passer cirka med længden af en halv 11-mands bane (bredden på en 8-mands bane).
 
-Meeting planners and other meeting professionals may use the term “meeting” to denote an event booked at a hotel, convention center or any other venue dedicated to such gatherings.
+| Nydt ferien og ladet op til 2021 |  | 
+| ------ | ---------------------- |
+| Mandag | Løb 20 min i eget tempo |
+| Onsdag | Løb 10 min opvarming, 1 x 4 min interval, løb 5 min hjem |
+| Lørdag | Løb 10 min opvarming, 4 x 50m sprint med 20s pause, løb 10 min hjem    |
 
-In this sense, the term meeting covers a lecture, seminar, conference, congress, exhibition or trade show, training course, or a team-building session and kick-off event.
+
+| Holdt dig igang - stille og roligt |  |
+| ------ | ---------------------- |
+| Mandag | Løb 25 min i eget tempo |
+| Onsdag | Løb 10 min opvarming, 2 x 4 min interval med 90s pause, løb 5 min hjem |
+| Lørdag | Løb 10 min opvarming, 7 x 50m sprint med 20s pause, løb 10 min hjem    |
+
+
+| Selvtrænet og i god form |  |
+| ------ | ---------------------- |
+| Mandag | Løb 30 min i eget tempo |
+| Onsdag | Løb 10 min opvarming, 3 x 4 min interval med 90s pause, løb 5 min hjem |
+| Lørdag | Løb 10 min opvarming, 10 x 50m sprint med 20s pause, løb 10 min hjem    |
+
+
