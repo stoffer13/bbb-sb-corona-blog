@@ -18,24 +18,27 @@ Når vi løber 4 min (minutter) intervaller er det vigtig at du kan holde et god
 
 Når vi løber 50m sprints er det vigtig at du kommer op i maks fart så hurtigt som muligt, så du løber så langt som muligt i sprint. Det er **ikke** først når du har løbet 50m du skal ramme topfarten. 50m passer cirka med længden af en halv 11-mands bane (bredden på en 8-mands bane).
 
-| Nydt ferien og ladet op til 2021 |  | 
+### Du har nydt ferien og ladet op til 2021
+| Løbeprogram |  | 
 | ------ | ---------------------- |
 | Mandag | Løb 20 min i eget tempo |
 | Onsdag | Løb 10 min opvarming, 1 x 4 min interval, løb 5 min hjem |
 | Lørdag | Løb 10 min opvarming, 4 x 50m sprint med 20s pause, løb 10 min hjem    |
+Husk, at det er sjovt at være i god form 😀
 
-
-| Holdt dig igang - stille og roligt |  |
+### Du har holdt dig i gang - stille og roligt
+| Løbeprogram |  | 
 | ------ | ---------------------- |
 | Mandag | Løb 25 min i eget tempo |
 | Onsdag | Løb 10 min opvarming, 2 x 4 min interval med 90s pause, løb 5 min hjem |
 | Lørdag | Løb 10 min opvarming, 7 x 50m sprint med 20s pause, løb 10 min hjem    |
+Det er fedt at kunne holde til mere og mere !
 
-
-| Selvtrænet og i god form |  |
+### Du har selvtrænet, er skarp og i god form 
+| Løbeprogram |  | 
 | ------ | ---------------------- |
 | Mandag | Løb 30 min i eget tempo |
 | Onsdag | Løb 10 min opvarming, 3 x 4 min interval med 90s pause, løb 5 min hjem |
 | Lørdag | Løb 10 min opvarming, 10 x 50m sprint med 20s pause, løb 10 min hjem    |
-
+Stærkt - fedt at kunne give den fuld gas
 
