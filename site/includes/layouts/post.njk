@@ -69,6 +69,25 @@ layout: default
 
         <div class="content post md:px-16">
 
+            {% if excerpt %}
+            <p class="content-excerpt">
+            {{ excerpt | safe }}
+            </p>
+            {% endif %}
+
+            {% if summary %}
+
+                    <p class="summary">Dagens program:
+<ul>
+                        {% for item in summary %}
+<li> - {{ item | safe }}</li>
+
+                        {% endfor %}
+
+                    </p>
+
+                {% endif %}
+
             {{ content | safe }}
 
             {# category links list #}

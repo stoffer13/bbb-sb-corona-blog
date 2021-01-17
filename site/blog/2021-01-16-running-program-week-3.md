@@ -1,7 +1,7 @@
 ---
 title: Løbetræning uge 3
 date: 2021-01-16
-featured_image: /images/blog/blog-1_pexels-nur-andi-ravsanjani-gusma.jpg
+featured_image: /images/blog/pexels-nur-andi-ravsanjani-gusma.jpg
 image_caption: Photo by Nur Andi Ravsanjani Gusma on Pexels
 excerpt: Så skal vi til at igang - programmet for løbetræning uge 3
 tags:
@@ -9,8 +9,6 @@ tags:
     - øvelser
     - løb
 ---
-
-Så skal vi til at igang - programmet for løbetræning uge 3
 
 Programmet er delt lidt op, alt efter hvor meget du har holdt dig igang i løbet af juleferien. Vør ærlig overfor dig selv, og lade være med at starte for hårdt, det kommer du bare til skade af. Men du skal samtidig have noget ud af det, så du skal være træt efter løbeturen, ellers har du slappet for meget af.
 
