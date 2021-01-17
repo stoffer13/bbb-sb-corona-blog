@@ -2,6 +2,15 @@ const htmlmin = require("html-minifier")
 
 module.exports = eleventyConfig => {
 
+  let markdownIt = require("markdown-it");
+  let markdownItVideo = require("markdown-it-video");
+  let options = {
+    html: true
+  };
+  let markdownLib = markdownIt(options).use(markdownItVideo);
+  
+  eleventyConfig.setLibrary("md", markdownLib);
+
     // Add a readable date formatter filter to Nunjucks
     eleventyConfig.addFilter("dateDisplay", require("./filters/dates.js"))
 
@@ -58,6 +67,14 @@ module.exports = eleventyConfig => {
         return blogs.reverse()
 
     })
+
+    // Shortcuts
+    // eleventyConfig.addNunjucksShortcode("user", function(user) {
+    //     return `<div class="user">
+    // <div class="user_name">${user.name}</div>
+    // ${user.twitter ? `<div class="user_twitter">@${user.twitter}</div>` : ''}
+    // </div>`;
+    //   });
 
     // Layout aliases
     eleventyConfig.addLayoutAlias('default', 'layouts/default.njk')
