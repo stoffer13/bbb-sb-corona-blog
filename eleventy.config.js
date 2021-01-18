@@ -5,7 +5,13 @@ module.exports = eleventyConfig => {
   let markdownIt = require("markdown-it");
   let markdownItVideo = require("markdown-it-video");
   let options = {
-    html: true
+    html: true,
+    youtube: {
+        nocookie: false,
+        parameters: {
+            rel: 0,
+        }
+      }
   };
   let markdownLib = markdownIt(options).use(markdownItVideo);
   
