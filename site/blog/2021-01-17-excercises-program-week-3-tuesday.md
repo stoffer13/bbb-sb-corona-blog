@@ -43,14 +43,16 @@ Drikkepause - klar til lidt styrketræning
 ## Styrke øvelser med bold, pude/underlag og 1 1,5L vandflaske
 I skal bruge et blødt underlag, eller en pude til ryggen når vi laver mavebøjninger. Ellers er resten af øvelserne lige til.
 
-60s Squat - op på tå - video 1:07
-60s Armbøjninger over flaske (planke inkluderet)
-30s Balance med bold - højre - video 1:37
-30s Balance med bold - venstre - video
-60s Mavebøjninger - bold mellem knæ
-30s Lunges - højre
-30s Lunges - venstre
-60s Rygbøjninger
+ - 60s Squat - op på tå - video 1:07
+ - 60s Armbøjninger over flaske (planke inkluderet)
+ - 30s Balance med bold - højre - video 1:37
+ - 30s Balance med bold - venstre - video
+ - 60s Mavebøjninger - bold mellem knæ
+ - 30s Lunges - højre
+ - 30s Lunges - venstre
+ - 60s Rygbøjninger
+
+Drikkepause - klar til lidt teknik
 
 ## Coerver - teknik med bold og 1 kegle/vandflaske
 I dag laver vi lidt Coerver øvelser. Se hvilke øvelser på vidoerne nedenfor fra [NH Fodbold - Individuel træning](https://www.youtube.com/channel/UC67HhgenaWDj0RPrQVYo3XQ).
