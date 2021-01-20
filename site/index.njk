@@ -15,30 +15,37 @@ title: BBB/SB 2008 Fodbold Hjemmetræning!
             <p>Her på siden samler vi nogle forslag til øvelser og hjemmetræning.</p>
             <p>Hvis I har gode ideer så kom endelig med dem. Vi vil rigtig gerne have input.</p>
                 <div class="flex-auto m-2">
-                    <h2 class="text-xl">Seneste øvelses program</h2>
+                    <h2 class="text-xl">Seneste øvelses-program</h2>
                     {% set post = collections.excercises | first %}
-
                     <article class="article-card flex-auto mb-8 mx-4 bg-white overflow-hidden rounded-lg shadow-lg">
-
                         <div class="p-8">
                             <h2 class="text-2xl mb-6">
                                 <a class="block text-purple-900 hover:text-pink-500" href="{{ post.url }}">{{ post.data.title }}</a>
                             </h2>
-
                             <div class="text-sm text-gray-600 md:flex mb-4">
-Af {{ site.author.name }} 
-
+                                Af {{ site.author.name }} 
                                 <time datetime="{{ post.date }}">
                                     {{ post.date | dateDisplay }}
                                 </time>
-
                             </div>
-
                         </div>
-
+                    </article>
+                    <h2 class="text-xl">Seneste løbe-program</h2>
+                    {% set run_post = collections.runs | first %}
+                    <article class="article-card flex-auto mb-8 mx-4 bg-white overflow-hidden rounded-lg shadow-lg">
+                        <div class="p-8">
+                            <h2 class="text-2xl mb-6">
+                                <a class="block text-purple-900 hover:text-pink-500" href="{{ run_post.url }}">{{ run_post.data.title }}</a>
+                            </h2>
+                            <div class="text-sm text-gray-600 md:flex mb-4">
+                                Af {{ site.author.name }} 
+                                <time datetime="{{ run_post.date }}">
+                                    {{ run_post.date | dateDisplay }}
+                                </time>
+                            </div>
+                        </div>
                     </article>
                 </div>
-            
         </div>
     </div>
 

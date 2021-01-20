@@ -24,6 +24,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
+    "markdown-it-container": "^3.0.0",
     "markdown-it-video": "^0.6.3"
   }
 }
