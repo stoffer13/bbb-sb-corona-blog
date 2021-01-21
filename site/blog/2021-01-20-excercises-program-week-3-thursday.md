@@ -67,25 +67,54 @@ Om det er 1-2-3-stop, eller 1-2-3-4-5-stop gør ikke så meget, vigtigst at I br
 
 ### Rollout - både med højre og venstre
 ::: youtube eL_yI_IgihA 15 24
+Super øvelse til træning af boldkontrol
 
 ### Roll out + bag om støtteben - både med højre og venstre
 ::: youtube eL_yI_IgihA 55 74
+Boldkontrol og balance!
 
 ### Til siden - from - sål tilbage  - både med højre og venstre
 ::: youtube 8ce48HgB1Eo 16 25
+Træning af verdens bedste dribling !!!
 
 ### Dansen
 ::: youtube 8ce48HgB1Eo 33 44
+Den skal vi alle kunne - op på bordet
 
 ### Rundt om støtteben - både med højre og venstre
 ::: youtube 8ce48HgB1Eo 58 67
+Kontrol og balance
+
 
 ## Vendinger
-I dag er inspiration hentet fra ???
+I dag er inspiration hentet fra [Michael Lewis Cunninghams kanal](https://www.youtube.com/user/7mlc), hvor der er mange fede videoer I kan hente inspiration fra til selvtræning.
 
 Jeg er godt klar over I ikke allesammen har plads til at sætte en 5 meters bane op, men lav den så stor som muligt. Stil en vandflaske og brug den som vende-punkt. Koncetrer jer om vendingen, og den rigtige teknik først. Derefter kan I sætte mere fart på. Hvis I har meget plads kan I lave vendinger, som vi plejer udendørs, med to vandflasker 5 meter fra hinanden. Hvis I har mindre plads dribler I bare op mod vandflasken, laver vendingen og dribler retur.
 
-### Der kommer nogle vendinger i løbet af torsdagen
+
+### Yderside vendingen
+::: youtube Kq8yGgtKwfI 29 69
+Fokus er på den skarpe berøring, så I kun bruger en for at have vendt.
+
+### Cruyff vendningen
+::: youtube Kq8yGgtKwfI 71 95
+En klassiker, der også ser lidt sej ud
+
+### L vendningen
+::: youtube Kq8yGgtKwfI 96 119
+Fuld kontrol over bolden i hele vendningen
+
+### V vendningen
+::: youtube Kq8yGgtKwfI 120 139
+Hurtigt væk fra modstanderens fod
+
+### L vending - to ben
+::: youtube Kq8yGgtKwfI 140 165
+Endnu mere elegant ?
+
+### Stepover
+::: youtube Kq8yGgtKwfI 166 190
+Forvir' modstanderen
 
 ## Quiz - kahoot.it
 Vi slutter lige af med en lille quiz. Åbn [kahoot.it](https://kahoot.it) i jeres browser, eller brug Kahoot appen på jeres mobiler. Når jeg starter quiz'en får I en "Game pin", et tal, I lige skal skrive ind for at få lov til at se quiz'en. 
