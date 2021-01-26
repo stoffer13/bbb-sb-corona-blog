@@ -9,6 +9,7 @@ summary:
     - Driblinger og finter - bold og 2 kegler/vandflasker
     - Spurt - 2 kegler/vandflasker
     - Den gode første berøring - bold, mur! og 3 kegler/vandflasker
+    - Høj puls
     - Quiz - kahoot.it
 tags:
     - blog
@@ -61,6 +62,8 @@ Vi afleverer nu mod muren. Får bolden tilbage og tager en god første berøring
 
  - Vi skifter i måder at lave første berøring og vendinger
 
+## Høj puls
+3-5 min fuld pace mellem 2 kegler der er mellem 5-8 meter fra hinanden. I skal være helt færdige til sidst.
 
 ## Quiz - kahoot.it
 Vi slutter lige af med en lille quiz. Åbn [kahoot.it](https://kahoot.it) i jeres browser, eller brug Kahoot appen på jeres mobiler. Når jeg starter quiz'en får I en "Game pin", et tal, I lige skal skrive ind for at få lov til at se quiz'en. 
