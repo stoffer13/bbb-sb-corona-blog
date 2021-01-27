@@ -1,5 +1,5 @@
 ---
-title: Øvelser til hjemmetræning - tirsdag uge 4
+title: Øvelser til hjemmetræning - torsdag uge 4
 date: 2021-01-27
 featured_image: /images/blog/pexels-pixabay-50713.jpg
 image_caption: Photo from Pexels
