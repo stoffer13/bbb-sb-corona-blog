@@ -21,6 +21,7 @@ Til dagens træning skal I bruge
  - En bold
  - 3 vandflasker - eller 1 vandflaske og 2 kegler/ekstra bolde/markeringer
  - En mur
+ - En stol
 
 Igen vil vi gerne opfordre til at I alle tænder skærmen, så vi alle kan se hinanden, også selvom vi er udenfor. Det bliver mere socialt og hyggeligt hvis vi kan se hinanden.
 Sørg for at I kan se skærmen det meste af tiden, da øvelserne bliver vist her, og vi også kan se hinanden 😛.
@@ -63,7 +64,7 @@ Vi afleverer nu mod muren. Får bolden tilbage og tager en god første berøring
  - Vi skifter i måder at lave første berøring og vendinger
 
 ## Høj puls
-3-5 min fuld pace mellem 2 kegler der er mellem 5-8 meter fra hinanden. I skal være helt færdige til sidst.
+Med stolen som centrum!! Vi kører 4 x 1,5 min med 45 s pause. I skal være helt færdige til sidst.
 
 ## Quiz - kahoot.it
 Vi slutter lige af med en lille quiz. Åbn [kahoot.it](https://kahoot.it) i jeres browser, eller brug Kahoot appen på jeres mobiler. Når jeg starter quiz'en får I en "Game pin", et tal, I lige skal skrive ind for at få lov til at se quiz'en. 
