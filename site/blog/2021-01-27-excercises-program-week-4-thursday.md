@@ -74,14 +74,15 @@ Igen skal I bruge to kegler med en 3-4 meters afstand. Vi spurter op i mode før
 ## Den gode første berøring - bold, mur! og 3 kegler/vandflasker
 Her stiller vi en kegler en 2/3 meter fra muren. Ved muren laver vi et mål med de 2 andre kegler på ca 1 meter. Start med afleveringer ind i målet. 
 Progressions mulighederne her er mange:
- - første berøring bagkegle til anden fod
  - første gangs afleveringer tilbage i målet
- - ...
-
-Herefter kører vi lidt af hvad vi gjorde sidst. På hver side at den kegle der står 2/3 meter fra muren stiller I en kegle 3 meter til siden.
-Vi afleverer nu mod muren. Får bolden tilbage og tager en god første berøring, dribler ud til den en kegle, og laver en god vending. Vi dribler tilbage mod den midterste kegler, afleverer ind mod muren. Får bolden tilbage og laver en god første berøring med den anden fod, og dribler ud i mod keglen til den anden side. Laver en god vending, og dribler tilbage, og så kører den bare her fra.
-
- - Vi skifter i måder at lave første berøring og vendinger
+   - tilbage til samme fod
+   - tilbage til modsatte fod
+ - første berøring bag keglen til anden fod
+   - med inderside
+   - bag om støtteben
+ - første berøring bag kegle, fanges med samme fods yderside
+ 
+Der er mange muligheder i denne øvelse.
 
 ## Høj puls
 Med stolen som centrum!! Vi kører 4 x 1,5 min med 45 s pause. I skal være helt færdige til sidst.
