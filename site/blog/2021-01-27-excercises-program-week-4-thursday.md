@@ -47,18 +47,38 @@ Drikkepause - klar til finter
 ## Driblinger og finter - bold og 2 kegler/vandflasker
 Igen skal I bruge to kegler med en 3-4 meters afstand. I dribler op mod første kegle, laver en finte udenom den, dribler op i mod næste kegle og finter også den. Vender rundt og gør det samme på tilbage vejen. Fokus er i første omgang på at lave finten korrekt, ikke hurtigt. Når I mestre finten, kan I begynde at sætte mere tempo på.
 
- - Husmandsfinten (stepover) - begge ben
- - Laudrup - verdens bedste finte - begge ben
- - Yderside -> inderside -> frem
- - ...
+### Laudrup - verdens bedste finte - begge ben
+Tjek dette eksempel ud, hvis ikke jeg formår at vise det godt nok 😛
+::: youtube NNU-NBhUWPg 40 76
+Husk at øve med begge ben, og begynd at sætte acceleration på når I har trukket bolden til siden og skal til at frem ad.
 
-Drikkepause - klar til lidt spurt træning
+### Brizze's mest effektive finte
+Brizze har mega mange gode finter, og en masse andet på hans kanal.
+Vi starter med denneher:
+::: youtube ko6qxVgh8LQ 121 280
+Husk at overdrive bevægelserne til at starte med så I får dem ind i kroppen. Start uden hop og bare rul med bolden. Når det er kørt ind, så sættes et hop på ved den første bevægelse til siden (efter rullet, som Brizze også forklarer)
+
+### Ronaldo finten (step over for vildt)
+::: youtube _stRZk5UdSo 9 87
+Start med at øve en masse step overs. Find ud af hvor meget fart der skal på bolden. Sæt herefter en berøring på med ydersiden af den ene fod, så I rent faktisk laver finten.
+
+### Neymar finten
+::: youtube ndCKzSw5HOc 3 50
+Vi tager den i 2 steps. Først rul bold med sål foran støtteben, mens du tager et skridt, så støtteben kommer hen til bolden. Dernæst bruger du støttebenet, der nu er det aktive ben, til at tage en berøring (lave et cut) bagom det nye støtteben.
+
+Kend din have - Drikkepause - klar til lidt spurt træning
 
 ## Spurt - 2 kegler/vandflasker
-Igen skal I bruge to kegler med en 3-4 meters afstand. Vi spurter op i mode første kegle. Runder den og side-stepper bagom næste kegle, og spurter i mål. Vender rundt, og kører den anden retning, med side-step til den anden side
+Igen skal I bruge to kegler med en 3-4 meters afstand. Vi spurter op i mode første kegle. Stopper brat op og tager tre skridt baglæns, inden vi spurter op i mod næste kegle7vandflaske.
 
 ## Den gode første berøring - bold, mur! og 3 kegler/vandflasker
-Her stiller vi en kegler en 2/3 meter fra muren. På hver side at den kegle stiller I en kegle 3 meter til siden.
+Her stiller vi en kegler en 2/3 meter fra muren. Ved muren laver vi et mål med de 2 andre kegler på ca 1 meter. Start med afleveringer ind i målet. 
+Progressions mulighederne her er mange:
+ - første berøring bagkegle til anden fod
+ - første gangs afleveringer tilbage i målet
+ - ...
+
+Herefter kører vi lidt af hvad vi gjorde sidst. På hver side at den kegle der står 2/3 meter fra muren stiller I en kegle 3 meter til siden.
 Vi afleverer nu mod muren. Får bolden tilbage og tager en god første berøring, dribler ud til den en kegle, og laver en god vending. Vi dribler tilbage mod den midterste kegler, afleverer ind mod muren. Får bolden tilbage og laver en god første berøring med den anden fod, og dribler ud i mod keglen til den anden side. Laver en god vending, og dribler tilbage, og så kører den bare her fra.
 
  - Vi skifter i måder at lave første berøring og vendinger
