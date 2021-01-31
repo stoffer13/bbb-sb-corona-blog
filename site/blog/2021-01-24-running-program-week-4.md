@@ -14,7 +14,7 @@ Programmet er delt lidt op, alt efter hvor meget du har holdt dig igang i løbet
 
 Når vi løber 6 min (minutter) intervaller er det vigtig at du kan holde et godt konstant tempo, og at du er helt færdig når der er gået 6 minutter. Hvis 2 minutter ikke er pause nok til du er klar til at give intervallet fuldt gas, holder du længere pause. Det vigtigste er at du er 100% klar til at løbe intervallet.
 
-Når vi løber 1,5 min eller 2 min intervaller er det vigtig at du hurtigt kommer op i tempo, og at du er helt færdig når der er gået 4 minutter. Hvis 60s (1 minut) ikke er pause nok til du er klar til at give intervallet fuldt gas, holder du længere pause. Det vigtigste er at du er 100% klar til at løbe intervallet.
+Når vi løber 1,5 min eller 2 min intervaller er det vigtig at du hurtigt kommer op i tempo, og at du er helt færdig når der er gået 2 minutter. Hvis 60s (1 minut) ikke er pause nok til du er klar til at give intervallet fuldt gas, holder du længere pause. Det vigtigste er at du er 100% klar til at løbe intervallet.
 
 
 ### Du har nydt ferien og ladet op til 2021
