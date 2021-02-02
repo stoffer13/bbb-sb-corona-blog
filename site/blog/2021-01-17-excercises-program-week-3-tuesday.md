@@ -60,15 +60,13 @@ I dag laver vi lidt Coerver øvelser. Se hvilke øvelser på vidoerne nedenfor f
 I skal bruge lidt plads og en vandflaske I kan stille foran jer.
 
 ### Yderside - inderside - sål - sål - venstre fod
-<!-- @[youtube](https://www.youtube.com/embed/mrZcLW_Rwec?controls=0&amp;disablekb=1&amp;enablejsapi=1&amp;showinfo=0&amp;start=30&amp;end=29) -->
-
-::: youtube mrZcLW_Rwec 30 64
+::: youtube mrZcLW_Rwec 0 30
 
 ### Yderside - inderside - sål - sål - højre fod
-Starter 30s inde i ovenstående video
+::: youtube mrZcLW_Rwec 30 64
 
 ### Frem/tilbage - til siden - frem/tilbage
-Starter 65s inde i ovenstående video
+::: youtube mrZcLW_Rwec 65 90
 
 ### V'et - inderside
 Starter 31s inde i video
