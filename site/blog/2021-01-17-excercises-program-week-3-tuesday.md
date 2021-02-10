@@ -79,7 +79,7 @@ Starter 57s inde i ovenstående video
 ## Vendinger
 I dag er inspiration hentet fra [Jysk Fodbold's youtube kanal](https://www.youtube.com/channel/UC33VbfDKpYEmZCQnRY23Zcg) hvor der er mange andre øvelser at tjekke ud. 
 
-Jeg er godt klar over I ikke allesammen har plads til at sætte en 5 meters bane op, men lav den så stor som muligt. Stil en vandflaske og brug den som vende-punkt. Koncetrer jer om vendingen, og den rigtige teknik først. Derefter kan I sætte mere fart på. Hvis I har meget plads kan I lave vendinger, som vi plejer udendørs, med to vandflasker 5 meter fra hinanden. Hvis I har mindre plads dribler I bare op mod vandflasken, laver vendingen og dribler retur.
+Jeg er godt klar over I ikke allesammen har plads til at sætte en 5 meters bane op, men lav den så stor som muligt. Stil en vandflaske og brug den som vende-punkt. Koncentrer jer om vendingen, og den rigtige teknik først. Derefter kan I sætte mere fart på. Hvis I har meget plads kan I lave vendinger, som vi plejer udendørs, med to vandflasker 5 meter fra hinanden. Hvis I har mindre plads dribler I bare op mod vandflasken, laver vendingen og dribler retur.
 
 ### Yderside vending
 @[youtube](https://youtu.be/slUcMJDa0PI)

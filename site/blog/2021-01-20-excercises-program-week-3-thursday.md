@@ -89,7 +89,7 @@ Kontrol og balance
 ## Vendinger
 I dag er inspiration hentet fra [Michael Lewis Cunninghams kanal](https://www.youtube.com/user/7mlc), hvor der er mange fede videoer I kan hente inspiration fra til selvtræning.
 
-Jeg er godt klar over I ikke allesammen har plads til at sætte en 5 meters bane op, men lav den så stor som muligt. Stil en vandflaske og brug den som vende-punkt. Koncetrer jer om vendingen, og den rigtige teknik først. Derefter kan I sætte mere fart på. Hvis I har meget plads kan I lave vendinger, som vi plejer udendørs, med to vandflasker 5 meter fra hinanden. Hvis I har mindre plads dribler I bare op mod vandflasken, laver vendingen og dribler retur.
+Jeg er godt klar over I ikke allesammen har plads til at sætte en 5 meters bane op, men lav den så stor som muligt. Stil en vandflaske og brug den som vende-punkt. Koncentrer jer om vendingen, og den rigtige teknik først. Derefter kan I sætte mere fart på. Hvis I har meget plads kan I lave vendinger, som vi plejer udendørs, med to vandflasker 5 meter fra hinanden. Hvis I har mindre plads dribler I bare op mod vandflasken, laver vendingen og dribler retur.
 
 
 ### Yderside vendingen
