@@ -1,6 +1,6 @@
 ---
 title: Løbetræning uge 8
-date: 2021-02-23
+date: 2021-02-22
 featured_image: /images/blog/pexels-igor-ovsyannykov-204546.jpg
 image_caption: Photo by Igor Ovsyannykov from Pexels
 excerpt: Sidste uge solo ? - programmet for løbetræning uge 8
